@@ -10,4 +10,4 @@ This repository contains the custom analysis pipelines and plotting scripts acco
 * 📁 **`functional_enrichment_plot/`**: Python 3 script for generating bubble plots of ontology and functional enrichment results.
 
 ## Data Availability
-A permanent archive of this release is available via Zenodo: **[DOI: TO BE INSERTED]**
+A permanent archive of this release is available via Zenodo: **[https://github.com/StephanFJ/jenkins-and-rhode-2026/tree/v1.0.0]**
