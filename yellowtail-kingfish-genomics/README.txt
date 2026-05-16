@@ -5,8 +5,6 @@ This repository contains the custom analysis pipelines and plotting scripts acco
 **"Genomic mechanisms of life history divergence shaped by demography and selection in the yellowtail kingfish species complex"** (Jenkins and Rhode, 2026).
 
 ## Repository Structure
-The code is organized into specific sub-directories based on the analysis type. Each folder contains its own detailed `README.md` with specific usage instructions.
-
 * 📁 **`codon_usage/`**: Python 3 pipeline for calculating, summarizing, and visualizing codon usage bias metrics (RSCU, ENC, GC3, CAI) across multiple genomes.
 * 📁 **`psmc_plot/`**: Python 3 script for visualizing Pairwise Sequentially Markovian Coalescent (PSMC) demographic histories overlaid with paleoclimate data (historical temperature and sea level fluctuations).
 * 📁 **`functional_enrichment_plot/`**: Python 3 script for generating bubble plots of ontology and functional enrichment results.
